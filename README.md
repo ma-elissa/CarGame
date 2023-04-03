@@ -1,2 +1,2 @@
 # Game
-For a better experience, zoom out your browser to 25!
+For a better experience, zoom out your browser to 25%
